@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Wish-Bone-Dressing-Western-44" size="4.000000 6.151394" />
+    <ImageTarget name="Wish-Bone-Light-Western-48" size="4.000000 6.719033" />
+    <ImageTarget name="Newman-7s-Zesty-Italian-12" size="4.000000 5.733333" />
+    <ImageTarget name="Newman-Lite-Italian-0" size="4.000000 5.551402" />
+    <ImageTarget name="Kraft-0Dressing-Classic-Ranch-12" size="4.000000 6.921502" />
+    <ImageTarget name="Kraft-Dressin-Classic-OZ-32" size="4.000000 6.435986" />
+    <ImageTarget name="Wish-Bone-Dressing-Vinaigrette-15" size="4.000000 5.327766" />
+    <ImageTarget name="Wish-Bone-anc20150FLZ-4" size="4.000000 5.327766" />
+    <ImageTarget name="Wish-Bone-2015-FL0OZ-15" size="4.000000 5.327766" />
+    <ImageTarget name="Kraft-Dressing-Zesty-0Italian-0FZ-8" size="4.000000 6.241493" />
+    <ImageTarget name="Kraft-Dressing-Coleslaw016FL-OZ-32" size="4.000000 6.578417" />
+    <ImageTarget name="Kra-ressing-Classic-0RanchF-4" size="4.000000 7.319092" />
+    <ImageTarget name="Ken-Steak-FL0OZ-16" size="4.000000 3.000000" />
+    <ImageTarget name="Ken-Steak-House-Dressin-Ranch-1" size="4.000000 3.000000" />
+    <ImageTarget name="Ken-7s-Steak-House-Italian-0" size="4.000000 3.000000" />
+    <ImageTarget name="Ken-7s_Steak-House-French-36" size="4.000000 3.000000" />
+    <ImageTarget name="Hidden-0Valley-20OZ-04" size="4.000000 5.327766" />
+    <ImageTarget name="Hidden-Valley-Light-08" size="4.000000 3.000000" />
+    <ImageTarget name="HiddenValley-Dressing-12" size="4.000000 3.000000" />
+    <ImageTarget name="Hidden-Valley-Dressing-Coleslaw-16" size="4.000000 3.000000" />
+  </Tracking>
+</QCARConfig>
